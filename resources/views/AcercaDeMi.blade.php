@@ -87,7 +87,7 @@
             <li>Licenciado en FF.AA</li>
             <img src="https://lh3.googleusercontent.com/pw/AP1GczNvf9zaKuVFS8kvjYsPPlnCMeFN53xx7t7_lM1jwBFt7LITa4msptNLxWjvZHzu4qSAZEcM-lPrz0UCguXCQWhw34JCYl9DaoFgbIgLBovZKE6lIcKd_-j6arZgEC2Zqxej9VhwYfEPBiPHWrXoy8uB436v3Qe8BNBFNDalPVpOlzI6E8AV3hP_0yTertuDpo-D3mGCyPZxSf6zhWbiS_GNJ_8zUDWClwNFknFmSjayhBx5ai1J73LlHgg7FoRLaYWHmAV9Go54hAhRCucswPLejb8ZZa0Ch7oRVpsLVCn0aZS9nOfWMVvB3ZflNECKkO-EIzHNEuVquVyuJkbg51Il13bCUK7q_UG6Y2cEbpfgbuYIwSyiJ6P22vUZjHoDJ-R7QyTgrKzXEvZP2XAT3ys_K_htu_mA93IbsDT5rXE8fDzjgkAsnSsAyB3IoekeVM6htya_noR2Ee3niT3AV2W4ZZ8EHan59-gNoWt1Q5oBadVIpLCYu9lUWOZNn_PQbOvTUuUmtEQF98Zij8Kjw9Vs_L4R6FIfdBrufCjkTHMVLo8ewyve8wxBtMhaey3sJrfwcuxECAE6MQ-SaSuELVy7j80NM6KpRYVPkVziyMMvMH1AkjJp4dZEtPELDIoJnH9DRPL3aIfyk7oEwMHYqoQogMRq_kxff-QX2zNoZ0bzl173IWUHlL1cOXeu7YP_Cmy3peXg-Em7rNP9s6bAktDI80KrwFRpCN5AwUjMx5BIB7tHdEKwUUUHwWRrOC00ZNj-WFgAxqd20ig3zM6u8X3by3PsBLqVdkhr_KBBRo-8La92mVSa9luUHng53A8-xvp4FnPe26GVD5uf2gw1Lr0VBlMCEOQNIQ2RrfL5KY3_Q3CBdOKoT-IKQA3gDKb0yv0ZTiMuuLSdiJxM7yhChybsRWA=w1216-h913-s-no-gm?authuser=0" alt="Biografía" class="image">
         </ul>
+        <a href="/" class="btn btn-primary">Volver a la página principal</a> <!-- Botón para volver a la página principal -->
     </div>
 </body>
 </html>
-

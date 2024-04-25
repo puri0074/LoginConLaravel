@@ -41,6 +41,8 @@
 
         <!-- Puedes agregar más elementos aquí según sea necesario -->
 
+        <a href="/" class="btn btn-primary">Volver a la página principal</a> <!-- Botón para volver a la página principal -->
+
     </div>
 </body>
 </html>

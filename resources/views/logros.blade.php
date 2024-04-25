@@ -61,6 +61,9 @@
             <p class="achievement-description">- Ponente en una conferencia internacional sobre [Tema específico]</p>
             <img src="https://usil-blog.s3.amazonaws.com/PROD/styles/list_styles_blogs/public/blog/image/cristian-moran-recibiendo-un-reconocimiento.jpg?itok=q8lGjayf" alt="Intereses y pasatiempos" class="image">
         </div>
+
+        <a href="/" class="btn btn-primary">Volver a la página principal</a> <!-- Botón para volver a la página principal -->
+
     </div>
 </body>
 </html>

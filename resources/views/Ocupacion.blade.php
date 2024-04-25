@@ -45,6 +45,9 @@
             <p>Logros: <strong>Reconocimiento atletico</strong></p>
             <img src="https://www.allphptricks.com/wp-content/uploads/2023/01/laravel-custom-user-registration-and-login-tutorial.jpg" alt="Intereses y pasatiempos" class="image">
         </div>
+
+        <a href="/" class="btn btn-primary">Volver a la página principal</a> <!-- Botón para volver a la página principal -->
+
     </div>
 </body>
 </html>
