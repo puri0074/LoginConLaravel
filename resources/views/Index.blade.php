@@ -117,6 +117,7 @@
       <a href="{{ route('Favoritos') }}">Favoritos</a>
       <a href="{{ route('logros') }}">logros</a>
       <a href="{{ route('Ocupacion') }}">Ocupacion</a>
+      <a href="{{ route('Conoce más de mi emprendimiento') }}">Mi emprendimiento</a>
     </nav>
   </header>
   <main>

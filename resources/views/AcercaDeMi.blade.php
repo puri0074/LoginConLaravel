@@ -70,7 +70,7 @@
     <div class="container">
         <h1 class="mt-5">Acerca de Mí</h1>
         <p class="lead">
-            ¡Hola! Soy Puri. Bienvenido a mi blog. En esta sección, encontrarás información sobre mí y mis intereses.
+            ¡Hola! Soy Puri. Bienvenido a mi pagina si deseas saber algo mas de mi, aqui te lo contare de una forma resumida, de mis trabajo y/o enfoque profesional
         </p>
         <h2>Biografía</h2>
         <img src="https://image.isu.pub/211028141307-edb4aef0c51b25579bf51272ef13cf66/jpg/page_1.jpg" alt="Biografía" class="image">

@@ -67,7 +67,7 @@ footer {
     </style>
 </head>
 <header>
-    <div class="foot">
+    <div class="Mi emprendimiento">
        <a href="{{ route('Conoce más de mi emprendimiento') }}" class="titulo-Mi emprendimiento">Mi emprendimiento></a>
     </div>
 </header>
@@ -103,5 +103,6 @@ footer {
     <footer>
         <p>Derechos de autor © 2024 Emprendimiento XYZ. Todos los derechos reservados.</p>
     </footer>
+    <a href="/" class="btn btn-primary">Volver a la página principal</a> <!-- Botón para volver a la página principal -->
 </body>
 </html>
