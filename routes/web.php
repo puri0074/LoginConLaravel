@@ -25,3 +25,7 @@ Route::get('logros', function () {
 Route::get('Ocupacion', function () {
     return view('Ocupacion');
 })->name('Ocupacion');
+
+Route::get('Conoce más de mi emprendimiento', function () {
+    return view('Conoce más de mi emprendimiento');
+})->name('Conoce más de mi emprendimiento');

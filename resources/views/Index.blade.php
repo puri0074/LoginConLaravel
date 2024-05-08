@@ -5,6 +5,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Tu Diario Personal</title>
   <style>
+
+    .btn {
+            font-size: 30px; /* Tamaño del texto del botón */
+            background-color: #ff1e00; /* Color de fondo del botón */
+            color: white; /* Color del texto del botón */
+            border: none; /* Sin borde */
+            padding: 20px 40px; /* Relleno interno del botón */
+            cursor: pointer; /* Cambiar el cursor al pasar sobre el botón */
+            border-radius: 10px; /* Bordes redondeados */
+        }
     /* Estilos generales */
     html, body {
       height: 100%;
@@ -140,7 +150,16 @@
             <img src="https://th.bing.com/th/id/OIP.tMLbNzNA-Lh8pohwRouo7wHaHa?w=179&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="WhatsApp" style="width: 40px; height: 40px; vertical-align: middle; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
         </a>
     </div>
-   <div style="font-size: 50px; color: white;">Ofrecemos los siguientes productos</div>
+    <body>
+      <div style="font-size: 50px; color: white;">Ofrecemos los siguientes productos</div>
+      <!-- Botón con ícono de FontAwesome -->
+      <button class="btn" onclick="window.location.href='Emprendimiento.blade.php'">
+          <i class="fas fa-handshake"></i> Conoce más de mi emprendimiento
+      </button>
+  
+      <!-- Script para importar FontAwesome -->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/js/all.min.js"></script>
+  </body>
   </main>
   <footer>
     <nav>
