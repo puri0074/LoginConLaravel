@@ -6,14 +6,6 @@ Route::get('/', function () {
     return view('index');
 });
 
-Auth::routes();
-
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
-
-Auth::routes();
-
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
-
 Route::get('AcercaDeMi', function () {
     return view('AcercaDeMi');
 })->name('AcercaDeMi');
@@ -33,4 +25,3 @@ Route::get('logros', function () {
 Route::get('Ocupacion', function () {
     return view('Ocupacion');
 })->name('Ocupacion');
-
