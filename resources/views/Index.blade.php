@@ -5,6 +5,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Tu Diario Personal</title>
   <style>
+
+    .btn {
+            font-size: 30px; /* Tamaño del texto del botón */
+            background-color: #ff1e00; /* Color de fondo del botón */
+            color: white; /* Color del texto del botón */
+            border: none; /* Sin borde */
+            padding: 20px 40px; /* Relleno interno del botón */
+            cursor: pointer; /* Cambiar el cursor al pasar sobre el botón */
+            border-radius: 10px; /* Bordes redondeados */
+        }
     /* Estilos generales */
     html, body {
       height: 100%;
@@ -107,6 +117,7 @@
       <a href="{{ route('Favoritos') }}">Favoritos</a>
       <a href="{{ route('logros') }}">logros</a>
       <a href="{{ route('Ocupacion') }}">Ocupacion</a>
+      <a href="{{ route('Conoce más de mi emprendimiento') }}">Mi emprendimiento</a>
     </nav>
   </header>
   <main>
@@ -144,6 +155,19 @@
             <a href="{{ route('Ventas') }}">Ventas</a>
         </div>
     </div>
+<<<<<<< HEAD
+=======
+    <body>
+      <div style="font-size: 50px; color: white;">Ofrecemos los siguientes productos</div>
+      <!-- Botón con ícono de FontAwesome -->
+      <button class="btn" onclick="window.location.href='Emprendimiento.blade.php'">
+          <i class="fas fa-handshake"></i> Conoce más de mi emprendimiento
+      </button>
+  
+      <!-- Script para importar FontAwesome -->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/js/all.min.js"></script>
+  </body>
+>>>>>>> 3c649d05625de1ca83a5f0cc439c6d27b36cbf2f
   </main>
   <footer>
     <nav>

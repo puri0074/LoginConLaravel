@@ -26,6 +26,12 @@ Route::get('Ocupacion', function () {
     return view('Ocupacion');
 })->name('Ocupacion');
 
+<<<<<<< HEAD
 Route::get('Ventas', function () {
     return view('Ventas');
 })->name('Ventas');
+=======
+Route::get('Conoce más de mi emprendimiento', function () {
+    return view('Conoce más de mi emprendimiento');
+})->name('Conoce más de mi emprendimiento');
+>>>>>>> 3c649d05625de1ca83a5f0cc439c6d27b36cbf2f
