@@ -135,12 +135,15 @@
         </div>
       </div>
     </div>
-    <div style="font-size: 40px; color: black; text-align: left;">Comunícate conmigo a mi WhatsApp
+    <div style="font-size: 40px; color: black; text-align: left;">Comunícate conmigo para saber de mis ventas haz click
         <a href="https://wa.me/1234567890" target="_blank">
             <img src="https://th.bing.com/th/id/OIP.tMLbNzNA-Lh8pohwRouo7wHaHa?w=179&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="WhatsApp" style="width: 40px; height: 40px; vertical-align: middle; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
         </a>
+
+        <div style="text-align: center; background-color: #f2f2f2; padding: 10px;">
+            <a href="{{ route('Ventas') }}">Ventas</a>
+        </div>
     </div>
-   <div style="font-size: 50px; color: white;">Ofrecemos los siguientes productos</div>
   </main>
   <footer>
     <nav>

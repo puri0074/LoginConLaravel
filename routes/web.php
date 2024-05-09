@@ -25,3 +25,7 @@ Route::get('logros', function () {
 Route::get('Ocupacion', function () {
     return view('Ocupacion');
 })->name('Ocupacion');
+
+Route::get('Ventas', function () {
+    return view('Ventas');
+})->name('Ventas');
